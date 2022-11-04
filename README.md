@@ -1,6 +1,6 @@
 # imersaodev-aluraflix
 
-## Digite os endereços das imagens dos seus filmes preferidos e aparecerá uma lista de filmes.
+## Digite o endereço de imagem do seu filme preferido e aparecerá uma lista de filmes.
 
 ![insira a url do seu filme favorito](https://github.com/mariaaparecidafalcao51/imers-odev-aluraflix/blob/main/insira%20a%20url%20do%20seu%20filme%20preferido.PNG?raw=true)
 ##
